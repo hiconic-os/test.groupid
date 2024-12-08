@@ -8,6 +8,6 @@
 		<java.version>21</java.version>
 		<V.hiconic-os>[1.0,1.1)</V.hiconic-os>
 		<V.com.braintribe.gm>[2.0,2.1)</V.com.braintribe.gm>
-		<npmRepoUrl>https://npm.pkg.github.com</npmRepoUrl>
+		<npmRegistryUrl>https://npm.pkg.github.com</npmRegistryUrl>
 	</properties>
 </project>
